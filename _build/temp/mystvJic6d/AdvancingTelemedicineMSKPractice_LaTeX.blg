@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: AdvancingTelemedicineMSKPractice_LaTeX.aux
+The style file: Frontiers-Harvard.bst
+Database file #1: main.bib
+Warning--to sort, need author or key in TelehealthHereStay2021
+Warning--to sort, need author, editor, or key in TelehealthHolograms2023
+Warning--to sort, need author, editor, or key in HowMuchMoney2023
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty author in TelehealthHereStay2021
+Warning--empty author and editor in HowMuchMoney2023
+Warning--missing publisher in HowMuchMoney2023
+Warning--empty author and editor in TelehealthHolograms2023
+Warning--missing publisher in khoslaventuresWinningOutsiderBuilding2023
+Warning--missing publisher in lindsayHowProduceGreat2019a
+Warning--missing publisher in lindsayAddressingZoomFatigue2021
+Warning--empty pages in liuHowCanLive2021
+Warning--missing publisher in mollaTellYourBoss2022
+Warning--missing publisher in tsipurskyUnlockingRemoteWork2023
+You've used 49 entries,
+            3029 wiz_defined-function locations,
+            993 strings with 21432 characters,
+and the built_in function-call counts, 35187 in all, are:
+= -- 2963
+> -- 2043
+< -- 18
++ -- 1030
+- -- 553
+* -- 2560
+:= -- 5153
+add.period$ -- 161
+call.type$ -- 49
+change.case$ -- 457
+chr.to.int$ -- 50
+cite$ -- 117
+duplicate$ -- 2236
+empty$ -- 2268
+format.name$ -- 686
+if$ -- 7113
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 545
+newline$ -- 371
+num.names$ -- 184
+pop$ -- 1051
+preamble$ -- 1
+purify$ -- 380
+quote$ -- 0
+skip$ -- 1360
+stack$ -- 0
+substring$ -- 1284
+swap$ -- 1116
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 417
+warning$ -- 13
+while$ -- 187
+width$ -- 0
+write$ -- 816
+(There were 13 warnings)

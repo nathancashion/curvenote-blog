@@ -4,11 +4,25 @@ description: ''
 short_title: ''
 subtitle: What can telemedicine providers learn from live streamers?
 tags: []
-date: '2024-07-29'
+date: '2024-07-28'
 subject: Health Informatics
 oxa: oxa:tgSYYIag2qhHH1yPOHt4/YsqKiR3JykwsSu6fHCEC
-keywords: []
+keywords: [telemedicine, telehealth, musculoskeletal, engagement, live streaming, video conferencing]
 thumbnail: thumbnails/full-text.png
+exports:
+  - format: pdf
+    output: exports/AdvancingTelemedicineMSKPractice_LaTeX.pdf
+    template: frontiers
+    id: latex-pdf
+  - format: typst
+    output: exports/AdvancingTelemedicineMSKPractice_typst.pdf
+    template: lapreprint-typst
+    id: typst-pdf
+downloads:
+  - id: latex-pdf
+    title: Download LaTeX PDF
+  - id: typst-pdf
+    title: Download Typst PDF
 ---
 
 +++ {"oxa":"oxa:tgSYYIag2qhHH1yPOHt4/oflI0gd6qlpHUWli1lKP.1","tags":[]}

@@ -1,0 +1,483 @@
+\begin{thebibliography}{49}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibAnnoteFile}[1]{%
+  \IfFileExists{#1}{\begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ \input{#1}\end{quotation}}{}}
+\providecommand{\bibAnnote}[2]{%
+  \begin{quotation}\noindent\textsc{Key:} #1\\
+  \textsc{Annotation:}\ #2\end{quotation}}
+
+\bibitem[{Tel(2021)}]{TelehealthHereStay2021}
+ (2021).
+\newblock Telehealth {Is} {Here} to {Stay}.
+\newblock \emph{Nature Medicine} 27, 1121--1121.
+\newblock \doi{10.1038/s41591-021-01447-x}.
+\newblock [Online; accessed 2022-11-10]
+\bibAnnoteFile{TelehealthHereStay2021}
+
+\bibitem[{How(2023)}]{HowMuchMoney2023}
+ (2023).
+\newblock \emph{How {Much} {Money} {Do} {Twitch} {Streamers} {Make} in 2023?}
+\newblock [Online; accessed 2024-06-27]
+\bibAnnoteFile{HowMuchMoney2023}
+
+\bibitem[{Tel(2023)}]{TelehealthHolograms2023}
+ (2023).
+\newblock \emph{Telehealth with {Holograms}}
+  (https://www.holoconnects.com/sectors/telehealth/).
+\newblock [Online; accessed 2024-06-25]
+\bibAnnoteFile{TelehealthHolograms2023}
+
+\bibitem[{Ahmad et~al.(2023)Ahmad, Wysocki, Fernandez, Cohen, and
+  Simcock}]{ahmadPatientPerspectivesTelemedicine2023}
+Ahmad, F., Wysocki, R.~W., Fernandez, J.~J., Cohen, M.~S., and Simcock, X.~C.
+  (2023).
+\newblock Patient {Perspectives} on {Telemedicine} {During} the {COVID}-19
+  {Pandemic}.
+\newblock \emph{HAND} 18, 522--526.
+\newblock \doi{10.1177/15589447211030692}.
+\newblock [Online; accessed 2024-06-09]
+\bibAnnoteFile{ahmadPatientPerspectivesTelemedicine2023}
+
+\bibitem[{Ansary et~al.(2021)Ansary, Martinez, and
+  Scott}]{ansaryVirtualPhysicalExam2021}
+Ansary, A.~M., Martinez, J.~N., and Scott, J.~D. (2021).
+\newblock The {Virtual} {Physical} {Exam} in the 21st {Century}.
+\newblock \emph{Journal of Telemedicine and Telecare} 27, 382--392.
+\newblock \doi{10.1177/1357633X19878330}.
+\newblock [Online; accessed 2022-12-15]
+\bibAnnoteFile{ansaryVirtualPhysicalExam2021}
+
+\bibitem[{Apathy et~al.(2024)Apathy, Zabala, Gomes, Spaar, Krevat, and
+  Ratwani}]{apathyTelemedicineInPersonVisit2024}
+Apathy, N.~C., Zabala, G., Gomes, K., Spaar, P., Krevat, S.~A., and Ratwani,
+  R.~M. (2024).
+\newblock Telemedicine and {In}-{Person} {Visit} {Modality} {Mix} and
+  {Electronic} {Health} {Record} {Use} in {Primary} {Care}.
+\newblock \emph{JAMA Network Open} 7, e248060.
+\newblock \doi{10.1001/jamanetworkopen.2024.8060}.
+\newblock [Online; accessed 2024-04-26]
+\bibAnnoteFile{apathyTelemedicineInPersonVisit2024}
+
+\bibitem[{Bailenson(2021)}]{bailensonNonverbalOverloadTheoretical2021}
+Bailenson, J.~N. (2021).
+\newblock Nonverbal {Overload}: A {Theoretical} {Argument} for the {Causes} of
+  {Zoom} {Fatigue}.
+\newblock \emph{Technology, Mind, and Behavior} 2.
+\newblock \doi{10.1037/tmb0000030}
+\bibAnnoteFile{bailensonNonverbalOverloadTheoretical2021}
+
+\bibitem[{Barberio and
+  Jenkins(2021)}]{barberioTransitioningTelehealthTodays2021}
+Barberio, J.~A. and Jenkins, M.~L. (2021).
+\newblock Transitioning to {Telehealth}: Today's {Guidelines} for {Future}
+  {Sustainability}.
+\newblock \emph{The Journal for Nurse Practitioners} 17, 795--798.
+\newblock \doi{10.1016/j.nurpra.2021.04.001}.
+\newblock [Online; accessed 2024-06-26]
+\bibAnnoteFile{barberioTransitioningTelehealthTodays2021}
+
+\bibitem[{Bargeri et~al.(2024)Bargeri, Castellini, Vitale, Guida, Banfi,
+  Gianola et~al.}]{Bargeri2024Effectiveness}
+Bargeri, S., Castellini, G., Vitale, J.~A., Guida, S., Banfi, G., Gianola, S.,
+  et~al. (2024).
+\newblock Effectiveness of {Telemedicine} for {Musculoskeletal} {Disorders}:
+  Umbrella {Review}.
+\newblock \emph{Journal of Medical Internet Research} 26, e50090.
+\newblock \doi{10.2196/50090}
+\bibAnnoteFile{Bargeri2024Effectiveness}
+
+\bibitem[{Baroni et~al.(2023)Baroni, Jacob, Rios, Fandim, Fernandes, Chaves
+  et~al.}]{baroniStateArtTelerehabilitation2023}
+Baroni, M.~P., Jacob, M. F.~A., Rios, W.~R., Fandim, J.~V., Fernandes, L.~G.,
+  Chaves, P.~I., et~al. (2023).
+\newblock The {State} of the {Art} in {Telerehabilitation} for
+  {Musculoskeletal} {Conditions}.
+\newblock \emph{Archives of Physiotherapy} 13, 1.
+\newblock \doi{10.1186/s40945-022-00155-0}.
+\newblock [Online; accessed 2023-08-03]
+\bibAnnoteFile{baroniStateArtTelerehabilitation2023}
+
+\bibitem[{Barton et~al.(2022{\natexlab{a}})Barton, Ezzat, Merolli, Williams,
+  Haines, Mehta et~al.}]{Barton2022It}
+Barton, C., Ezzat, A., Merolli, M., Williams, C., Haines, T., Mehta, N., et~al.
+  (2022{\natexlab{a}}).
+\newblock ``{It}'s second best'': A mixed-methods evaluation of the experiences
+  and attitudes of people with musculoskeletal pain towards physiotherapist
+  delivered telehealth during the {COVID}-19 pandemic.
+\newblock \emph{Musculoskeletal Science and Practice} 58, 102500.
+\newblock \doi{10.1016/j.msksp.2021.102500}
+\bibAnnoteFile{Barton2022It}
+
+\bibitem[{Barton et~al.(2022{\natexlab{b}})Barton, Ezzat, Merolli, Williams,
+  Haines, Mehta et~al.}]{bartonItsSecondBest2022}
+Barton, C., Ezzat, A., Merolli, M., Williams, C., Haines, T., Mehta, N., et~al.
+  (2022{\natexlab{b}}).
+\newblock ``{It}'s {Second} {Best}'': A {Mixed}-{Methods} {Evaluation} of the
+  {Experiences} and {Attitudes} of {People} with {Musculoskeletal} {Pain}
+  towards {Physiotherapist} {Delivered} {Telehealth} during the {COVID}-19
+  {Pandemic}.
+\newblock \emph{Musculoskeletal Science \& Practice} 58, 102500.
+\newblock \doi{10.1016/j.msksp.2021.102500}.
+\newblock [Online; accessed 2024-03-26]
+\bibAnnoteFile{bartonItsSecondBest2022}
+
+\bibitem[{Bernhardsson et~al.(2023)Bernhardsson, Larsson, Bergenheim,
+  Ho-Henriksson, Ekhammar, Lange
+  et~al.}]{bernhardssonDigitalPhysiotherapyAssessment2023}
+Bernhardsson, S., Larsson, A., Bergenheim, A., Ho-Henriksson, C.-M., Ekhammar,
+  A., Lange, E., et~al. (2023).
+\newblock Digital {Physiotherapy} {Assessment} vs {Conventional}
+  {Face}-to-{Face} {Physiotherapy} {Assessment} of {Patients} with
+  {Musculoskeletal} {Disorders}: A {Systematic} {Review}.
+\newblock \emph{PLOS ONE} 18, e0283013.
+\newblock \doi{10.1371/journal.pone.0283013}.
+\newblock [Online; accessed 2023-07-15]
+\bibAnnoteFile{bernhardssonDigitalPhysiotherapyAssessment2023}
+
+\bibitem[{Bryant(2020)}]{bryantTheresIntimacyWhat2020}
+Bryant, K. (2020).
+\newblock ``{There}'s an {Intimacy} to {What} {We} {Do}'': How {Peloton}
+  {Became} {Must}-{Watch} {TV} in 2020.
+\newblock \emph{Vanity Fair} [Online; accessed 2024-07-17]
+\bibAnnoteFile{bryantTheresIntimacyWhat2020}
+
+\bibitem[{Davies et~al.(2021)Davies, Hinman, Russell, Lawford, Bennell,
+  Billings et~al.}]{daviesInternationalCoreCapability2021}
+Davies, L., Hinman, R.~S., Russell, T., Lawford, B., Bennell, K., Billings, M.,
+  et~al. (2021).
+\newblock An {International} {Core} {Capability} {Framework} for
+  {Physiotherapists} to {Deliver} {Quality} {Care} via {Videoconferencing}: A
+  {Delphi} {Study}.
+\newblock \emph{Journal of Physiotherapy} 67, 291--297.
+\newblock \doi{10.1016/j.jphys.2021.09.001}.
+\newblock [Online; accessed 2024-06-24]
+\bibAnnoteFile{daviesInternationalCoreCapability2021}
+
+\bibitem[{Ernstzen et~al.(2022)Ernstzen, Keet, Louw, Park-Ross, Pask, Reardon
+  et~al.}]{ernstzenYouMustUnderstand2022}
+Ernstzen, D., Keet, J., Louw, K.-A., Park-Ross, J., Pask, L., Reardon, C.,
+  et~al. (2022).
+\newblock "{So}, {You} {Must} {Understand} {That} {That} {Group} {Changed}
+  {Everything}": Perspectives on a {Telehealth} {Group} {Intervention} for
+  {Individuals} with {Chronic} {Pain}.
+\newblock \emph{BMC musculoskeletal disorders} 23, 538.
+\newblock \doi{10.1186/s12891-022-05467-7}.
+\newblock [Online; accessed 2024-05-22]
+\bibAnnoteFile{ernstzenYouMustUnderstand2022}
+
+\bibitem[{Fernandes and Saragiotto(2021)}]{fernandesWhatExtentCan2021}
+Fernandes, L.~G. and Saragiotto, B.~T. (2021).
+\newblock To {What} {Extent} {Can} {Telerehabilitation} {Help} {Patients} in
+  {Low}- and {Middle}-{Income} {Countries}?
+\newblock \emph{Brazilian Journal of Physical Therapy} 25, 481--483.
+\newblock \doi{10.1016/j.bjpt.2020.11.004}
+\bibAnnoteFile{fernandesWhatExtentCan2021}
+
+\bibitem[{Gimigliano and Negrini(2017)}]{Gimigliano2017World}
+Gimigliano, F. and Negrini, S. (2017).
+\newblock The {World} {Health} {Organization} "{Rehabilitation} 2030: a call
+  for action".
+\newblock \emph{European Journal of Physical and Rehabilitation Medicine} 53.
+\newblock \doi{10.23736/s1973-9087.17.04746-3}
+\bibAnnoteFile{Gimigliano2017World}
+
+\bibitem[{Haldeman et~al.(2021)Haldeman, Nordin, Tavares, Mullerpatan,
+  Kopansky-Giles, Setlhare et~al.}]{haldemanDistanceManagementSpinal2021}
+Haldeman, S., Nordin, M., Tavares, P., Mullerpatan, R., Kopansky-Giles, D.,
+  Setlhare, V., et~al. (2021).
+\newblock Distance {Management} of {Spinal} {Disorders} during the {COVID}-19
+  {Pandemic} and beyond: Evidence-based {Patient} and {Clinician} {Guides} from
+  the {Global} {Spine} {Care} {Initiative}.
+\newblock \emph{JMIR Public Health and Surveillance} 7, e25484.
+\newblock \doi{10.2196/25484}
+\bibAnnoteFile{haldemanDistanceManagementSpinal2021}
+
+\bibitem[{Herzlinger and Lobb(2022)}]{herzlingerSwordHealth2022}
+Herzlinger, R. and Lobb, A. (2022).
+\newblock \emph{Sword {Health}}.
+\newblock Case {Study} Case 323-022, Harvard Business School.
+\newblock [Online; accessed 2024-01-18]
+\bibAnnoteFile{herzlingerSwordHealth2022}
+
+\bibitem[{Hinman et~al.(2024)Hinman, Campbell, Kimp, Russell, Foster, Kasza
+  et~al.}]{Hinman2024Telerehabilitation}
+Hinman, R.~S., Campbell, P.~K., Kimp, A.~J., Russell, T., Foster, N.~E., Kasza,
+  J., et~al. (2024).
+\newblock Telerehabilitation consultations with a physiotherapist for chronic
+  knee pain versus in-person consultations in {Australia}: the {PEAK}
+  non-inferiority randomised controlled trial.
+\newblock \emph{The Lancet} 403, 1267--1278.
+\newblock \doi{10.1016/s0140-6736(23)02630-2}
+\bibAnnoteFile{Hinman2024Telerehabilitation}
+
+\bibitem[{Hinman et~al.(2017)Hinman, Nelligan, Bennell, and
+  Delany}]{hinmanSoundsBitCrazy2017}
+Hinman, R.~S., Nelligan, R., Bennell, K.~L., and Delany, C. (2017).
+\newblock ``{Sounds} a {Bit} {Crazy}, {But} {It} {Was} {Almost} {More}
+  {Personal}:'' {A} {Qualitative} {Study} of {Patient} and {Clinician}
+  {Experiences} of {Physical} {Therapist}--{Prescribed} {Exercise} {For} {Knee}
+  {Osteoarthritis} {Via} {Skype}.
+\newblock \emph{Arthritis Care \& Research} 69, 1834--1844.
+\newblock \doi{10.1002/acr.23218}.
+\newblock [Online; accessed 2024-03-26]
+\bibAnnoteFile{hinmanSoundsBitCrazy2017}
+
+\bibitem[{Jin et~al.(2020)Jin, Kim, Miller, Behari, and
+  Correa}]{jinTelemedicineCurrentImpact2020}
+Jin, M.~X., Kim, S.~Y., Miller, L.~J., Behari, G., and Correa, R. (2020).
+\newblock Telemedicine: Current {Impact} on the {Future}.
+\newblock \emph{Cureus} 12, e9891.
+\newblock \doi{10.7759/cureus.9891}.
+\newblock [Online; accessed 2024-02-26]
+\bibAnnoteFile{jinTelemedicineCurrentImpact2020}
+
+\bibitem[{{Khosla Ventures}(2023)}]{khoslaventuresWinningOutsiderBuilding2023}
+{Khosla Ventures} (2023).
+\newblock \emph{Winning as an {Outsider}: Building {Something} {So} {Good} {It}
+  {Can}'t {Be} {Ignored} \textbar{} {Virgilio} {Bento}}.
+\newblock [Online; accessed 2024-03-28]
+\bibAnnoteFile{khoslaventuresWinningOutsiderBuilding2023}
+
+\bibitem[{Lamplot and Taylor(2021)}]{lamplotGoodComesEvil2021}
+Lamplot, J.~D. and Taylor, S.~A. (2021).
+\newblock Good {Comes} {From} {Evil}: Covid-19 and the {Advent} of
+  {Telemedicine} in {Orthopedics}.
+\newblock \emph{HSS Journal\textregistered{}} 17, 7--13.
+\newblock \doi{10.1177/1556331620972046}.
+\newblock [Online; accessed 2024-06-09]
+\bibAnnoteFile{lamplotGoodComesEvil2021}
+
+\bibitem[{Lawford et~al.(2018)Lawford, Delany, Bennell, and
+  Hinman}]{Lawford2018I}
+Lawford, B., Delany, C., Bennell, K., and Hinman, R. (2018).
+\newblock ``{I} was really sceptical...{But} it worked really well'': a
+  qualitative study of patient perceptions of telephone-delivered exercise
+  therapy by physiotherapists for people with knee osteoarthritis.
+\newblock \emph{Osteoarthritis and Cartilage} 26, 741--750.
+\newblock \doi{10.1016/j.joca.2018.02.909}
+\bibAnnoteFile{Lawford2018I}
+
+\bibitem[{Li et~al.(2023)Li, Ding, Xu, and
+  Yang}]{liImpactFitnessInfluencers2023}
+Li, W., Ding, H., Xu, G., and Yang, J. (2023).
+\newblock The {Impact} of {Fitness} {Influencers} on a {Social} {Media}
+  {Platform} on {Exercise} {Intention} during the {COVID}-19 {Pandemic}: The
+  {Role} of {Parasocial} {Relationships}.
+\newblock \emph{International Journal of Environmental Research and Public
+  Health} 20, 1113.
+\newblock \doi{10.3390/ijerph20021113}.
+\newblock [Online; accessed 2024-07-18]
+\bibAnnoteFile{liImpactFitnessInfluencers2023}
+
+\bibitem[{Lindsay(2019)}]{lindsayHowProduceGreat2019a}
+Lindsay, A. (2019).
+\newblock \emph{How to {Produce} a {Great} {Livestreamed} {Event} on {Any}
+  {Budget}}.
+\newblock [Online; accessed 2024-06-03]
+\bibAnnoteFile{lindsayHowProduceGreat2019a}
+
+\bibitem[{Lindsay(2021)}]{lindsayAddressingZoomFatigue2021}
+Lindsay, A. (2021).
+\newblock \emph{Addressing ``{Zoom} {Fatigue}'' --- {A} {Professional}
+  {Assessment}}.
+\newblock [Online; accessed 2024-06-03]
+\bibAnnoteFile{lindsayAddressingZoomFatigue2021}
+
+\bibitem[{Liu et~al.(2021)Liu, Sun, and Lee}]{liuHowCanLive2021}
+Liu, G. H.~W., Sun, M., and Lee, N. C.-A. (2021).
+\newblock How {Can} {Live} {Streamers} {Enhance} {Viewer} {Engagement} in
+  {eCommerce} {Streaming}?
+\newblock In \emph{Proceedings of the 54th {Hawaii} {International}
+  {Conference} on {System} {Sciences}}.
+\newblock \doi{10.24251/HICSS.2021.375}.
+\newblock [Online; accessed 2024-05-28]
+\bibAnnoteFile{liuHowCanLive2021}
+
+\bibitem[{Lucas and Wang(2024)}]{lucasDeclinesTelemedicineUse2024}
+Lucas, J. and Wang, X. (2024).
+\newblock \emph{Declines in {Telemedicine} {Use} among {Adults}: United
+  {States}, 2021 and 2022}.
+\newblock techreport 205, National Center for Health Statistics, Hyattsville,
+  MD.
+\newblock \doi{10.15620/cdc/154767}.
+\newblock [Online; accessed 2024-06-22]
+\bibAnnoteFile{lucasDeclinesTelemedicineUse2024}
+
+\bibitem[{Lv et~al.(2022)Lv, Cao, Xu, Ni, Shao, and
+  Shi}]{lvHowLiveStreaming2022}
+Lv, J., Cao, C., Xu, Q., Ni, L., Shao, X., and Shi, Y. (2022).
+\newblock How {Live} {Streaming} {Interactions} and {Their} {Visual} {Stimuli}
+  {Affect} {Users}' {Sustained} {Engagement} {Behaviour}---{A} {Comparative}
+  {Experiment} {Using} {Live} and {Virtual} {Live} {Streaming}.
+\newblock \emph{Sustainability} 14, 8907.
+\newblock \doi{10.3390/su14148907}.
+\newblock [Online; accessed 2024-05-28]
+\bibAnnoteFile{lvHowLiveStreaming2022}
+
+\bibitem[{Lyles et~al.(2020)Lyles, Nelson, Frampton, Dykes, Cemballi, and
+  Sarkar}]{Lyles2020Using}
+Lyles, C.~R., Nelson, E.~C., Frampton, S., Dykes, P.~C., Cemballi, A.~G., and
+  Sarkar, U. (2020).
+\newblock Using {Electronic} {Health} {Record} {Portals} to {Improve} {Patient}
+  {Engagement}: Research {Priorities} and {Best} {Practices}.
+\newblock \emph{Annals of Internal Medicine} 172, S123--S129.
+\newblock \doi{10.7326/m19-0876}
+\bibAnnoteFile{Lyles2020Using}
+
+\bibitem[{Manganello et~al.(2017)Manganello, Gerstner, Pergolino, Graham,
+  Falisi, and Strogatz}]{Manganello2017Relationship}
+Manganello, J., Gerstner, G., Pergolino, K., Graham, Y., Falisi, A., and
+  Strogatz, D. (2017).
+\newblock The {Relationship} of {Health} {Literacy} {With} {Use} of {Digital}
+  {Technology} for {Health} {Information}: Implications for {Public} {Health}
+  {Practice}.
+\newblock \emph{Journal of Public Health Management and Practice} 23, 380--387.
+\newblock \doi{10.1097/phh.0000000000000366}
+\bibAnnoteFile{Manganello2017Relationship}
+
+\bibitem[{Mangione et~al.(2024)Mangione, Basile, and Post}]{Mangione2024Out}
+Mangione, S., Basile, M., and Post, S.~G. (2024).
+\newblock Out of {Touch}.
+\newblock \emph{JAMA} 331, 729.
+\newblock \doi{10.1001/jama.2024.0888}
+\bibAnnoteFile{Mangione2024Out}
+
+\bibitem[{Molla(2022)}]{mollaTellYourBoss2022}
+Molla, R. (2022).
+\newblock \emph{Tell {Your} {Boss}: Working from {Home} {Is} {Making} {You}
+  {More} {Productive}}.
+\newblock [Online; accessed 2024-06-27]
+\bibAnnoteFile{mollaTellYourBoss2022}
+
+\bibitem[{Monachelli et~al.(2024)Monachelli, Davis, Barnard, Longmire,
+  Docherty, and Oakley-Girvan}]{monachelliDesigningMHealthApps2024}
+Monachelli, R., Davis, S.~W., Barnard, A., Longmire, M., Docherty, J.~P., and
+  Oakley-Girvan, I. (2024).
+\newblock Designing {mHealth} {Apps} to {Incorporate} {Evidence}-{Based}
+  {Techniques} for {Prolonging} {User} {Engagement}.
+\newblock \emph{Interactive Journal of Medical Research} 13, e51974.
+\newblock \doi{10.2196/51974}.
+\newblock [Online; accessed 2024-06-10]
+\bibAnnoteFile{monachelliDesigningMHealthApps2024}
+
+\bibitem[{Oh et~al.(2024)Oh, To, Corso, Murnaghan, Yu, and
+  Cancelliere}]{ohAgreementConcurrentValidity2024}
+Oh, D., To, D., Corso, M., Murnaghan, K., Yu, H., and Cancelliere, C. (2024).
+\newblock Agreement and {Concurrent} {Validity} between {Telehealth} and
+  {In}-{Person} {Diagnosis} of {Musculoskeletal} {Conditions}: A {Systematic}
+  {Review}.
+\newblock \emph{Chiropractic \& Manual Therapies} 32, 21.
+\newblock \doi{10.1186/s12998-024-00542-3}.
+\newblock [Online; accessed 2024-06-21]
+\bibAnnoteFile{ohAgreementConcurrentValidity2024}
+
+\bibitem[{Saragiotto et~al.(2022)Saragiotto, Sandal, and
+  Hartvigsen}]{saragiottoCanYouBe2022}
+Saragiotto, B.~T., Sandal, L.~F., and Hartvigsen, J. (2022).
+\newblock Can {You} {Be} a {Manual} {Therapist} without {Using} {Your} {Hands}?
+\newblock \emph{Chiropractic \& Manual Therapies} 30, 48.
+\newblock \doi{10.1186/s12998-022-00457-x}
+\bibAnnoteFile{saragiottoCanYouBe2022}
+
+\bibitem[{Satin and Lieberman(2021)}]{satinVirtualSpineExamination2021}
+Satin, A.~M. and Lieberman, I.~H. (2021).
+\newblock The {Virtual} {Spine} {Examination}: Telemedicine in the {Era} of
+  {COVID}-19 and {Beyond}.
+\newblock \emph{Global Spine Journal} 11, 966--974.
+\newblock \doi{10.1177/2192568220947744}.
+\newblock [Online; accessed 2024-06-23]
+\bibAnnoteFile{satinVirtualSpineExamination2021}
+
+\bibitem[{Seron et~al.(2021)Seron, Oliveros, Gutierrez-Arias, Fuentes-Aspe,
+  Torres-Castro, Merino-Osorio et~al.}]{Seron2021Effectiveness}
+Seron, P., Oliveros, M.-J., Gutierrez-Arias, R., Fuentes-Aspe, R.,
+  Torres-Castro, R.~C., Merino-Osorio, C., et~al. (2021).
+\newblock Effectiveness of {Telerehabilitation} in {Physical} {Therapy}: A
+  {Rapid} {Overview}.
+\newblock \emph{Physical Therapy} 101.
+\newblock \doi{10.1093/ptj/pzab053}
+\bibAnnoteFile{Seron2021Effectiveness}
+
+\bibitem[{Shah et~al.(2024)Shah, Shetty, Kanna, and
+  Thakur}]{shahEfficacyTelerehabilitationSpine2024}
+Shah, N., Shetty, G.~M., Kanna, R., and Thakur, H. (2024).
+\newblock Efficacy of {Telerehabilitation} for {Spine} {Pain} during the
+  {Coronavirus} {Pandemic} {Lockdown}: A {Retrospective} {Propensity}
+  {Score}-{Matched} {Analysis}.
+\newblock \emph{Disability and Rehabilitation: Assistive Technology} 19,
+  558--565.
+\newblock \doi{10.1080/17483107.2022.2107718}.
+\newblock [Online; accessed 2024-05-22]
+\bibAnnoteFile{shahEfficacyTelerehabilitationSpine2024}
+
+\bibitem[{Sisson(2024)}]{sissonApplesNewVision2024}
+Sisson, P. (2024).
+\newblock \emph{Is {Apple}'s {New} {Vision} {Pro} a {Health} {Care} {Machine}?
+  {Sharp} {Healthcare} {Thinks} {So}}
+  (https://www.sandiegouniontribune.com/news/health/story/2024-02-05/is-apples-new-vision-pro-a-health-care-machine-sharp-healthcare-thinks-so).
+\newblock [Online; accessed 2024-02-14]
+\bibAnnoteFile{sissonApplesNewVision2024}
+
+\bibitem[{Staeritz(2021)}]{staeritzHowCanHealthcare2021}
+Staeritz, F. (2021).
+\newblock How {Can} {The} {Healthcare} {Industry} {Solve} {Innovation}
+  {Inertia}?
+\newblock \emph{Forbes} [Online; accessed 2024-03-28]
+\bibAnnoteFile{staeritzHowCanHealthcare2021}
+
+\bibitem[{Tsipursky(2023)}]{tsipurskyUnlockingRemoteWork2023}
+Tsipursky, G. (2023).
+\newblock \emph{Unlocking {The} {Remote} {Work} {Productivity} {Advantage}}.
+\newblock [Online; accessed 2024-06-27]
+\bibAnnoteFile{tsipurskyUnlockingRemoteWork2023}
+
+\bibitem[{Wade et~al.(2014)Wade, Eliott, and
+  Hiller}]{wadeClinicianAcceptanceKey2014}
+Wade, V.~A., Eliott, J.~A., and Hiller, J.~E. (2014).
+\newblock Clinician {Acceptance} {Is} the {Key} {Factor} for {Sustainable}
+  {Telehealth} {Services}.
+\newblock \emph{Qualitative Health Research} 24, 682--694.
+\newblock \doi{10.1177/1049732314528809}.
+\newblock [Online; accessed 2024-03-27]
+\bibAnnoteFile{wadeClinicianAcceptanceKey2014}
+
+\bibitem[{Wallace et~al.(2022)Wallace, Falla, Rushton, and
+  Heneghan}]{wallaceGroupIndividualTelehealth2022}
+Wallace, L.~M., Falla, D., Rushton, A., and Heneghan, N.~R. (2022).
+\newblock Group and {Individual} {Telehealth} for {Chronic} {Musculoskeletal}
+  {Pain}: A {Scoping} {Review}.
+\newblock \emph{Musculoskeletal care} 20, 245--258.
+\newblock \doi{10.1002/msc.1594}.
+\newblock [Online; accessed 2024-05-22]
+\bibAnnoteFile{wallaceGroupIndividualTelehealth2022}
+
+\bibitem[{Wei et~al.(2019)Wei, McElroy, and
+  Dey}]{weiOnDemandVirtualPhysical2019}
+Wei, W., McElroy, C., and Dey, S. (2019).
+\newblock Towards {On}-{Demand} {Virtual} {Physical} {Therapist}: Machine
+  {Learning}-{Based} {Patient} {Action} {Understanding}, {Assessment} and
+  {Task} {Recommendation}.
+\newblock \emph{IEEE Transactions on Neural Systems and Rehabilitation
+  Engineering} 27, 1824--1835.
+\newblock \doi{10.1109/TNSRE.2019.2934097}.
+\newblock [Online; accessed 2024-07-15]
+\bibAnnoteFile{weiOnDemandVirtualPhysical2019}
+
+\bibitem[{Withers et~al.(2024)Withers, Glinsky, Chu, Jennings, Starkey,
+  Parmeter et~al.}]{withersRemotelyDeliveredPhysiotherapy2024}
+Withers, H.~G., Glinsky, J.~V., Chu, J., Jennings, M.~D., Starkey, I.,
+  Parmeter, R., et~al. (2024).
+\newblock Remotely {Delivered} {Physiotherapy} {Is} as {Effective} as
+  {Face}-to-{Face} {Physiotherapy} for {Musculoskeletal} {Conditions}
+  ({REFORM}): A {Randomised} {Trial}.
+\newblock \emph{Journal of Physiotherapy} \doi{10.1016/j.jphys.2024.02.016}.
+\newblock [Online; accessed 2024-03-18]
+\bibAnnoteFile{withersRemotelyDeliveredPhysiotherapy2024}
+
+\end{thebibliography}
