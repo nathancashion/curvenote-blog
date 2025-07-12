@@ -1,2 +1,4 @@
 # curvenote-blog
-Test blog using Curvenote CLI
+This is a test of a blog using [Curvenote CLI](https://curvenote.com/docs/cli).
+
+
