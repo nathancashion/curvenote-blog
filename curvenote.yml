@@ -1,0 +1,33 @@
+version: 1
+project:
+  title: Advancing Telemedicine in Musculoskeletal Practice
+  description: Capstone project for MS Health Informatics @ Logan University, 2024
+  authors:
+    - userId: EMGgyNNhC1Pux2sndxXr0yg1RuO2
+      nameParsed:
+        literal: Nathan Cashion
+        given: Nathan
+        family: Cashion
+      name: Nathan Cashion
+      orcid: 0000-0001-7987-367X
+      corresponding: false
+      roles: []
+      affiliations: []
+      id: contributors-generated-uid-0
+  id: tgSYYIag2qhHH1yPOHt4
+  remote: tgSYYIag2qhHH1yPOHt4
+  short_title: ''
+  keywords: []
+  open_access: true
+  subject: Health Informatics
+site:
+  title: Advancing Telemedicine in Musculoskeletal Practice
+  options:
+    logo_text: Advancing Telemedicine in Musculoskeletal Practice
+    twitter: nathancashion
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - nathancashion.curve.space
